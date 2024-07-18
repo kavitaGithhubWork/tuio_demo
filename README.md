@@ -58,7 +58,7 @@ Usage
 Running the Tests
 To run the Playwright tests, use the following command:
 
-npx playwright test
+**npx playwright test**
 
 
 Project Structure
